@@ -30,7 +30,7 @@ This is the frontend interface of the Automated Document Verification system, bu
   - **View Result**:
           Shows extracted data and verification outcome.
     
-<img width="937" height="451" alt="front3" src="https://github.com/user-attachments/assets/b8ab1ae0-c8f3-46bb-80ff-c5ef7d0d297e" />
+  <img width="937" height="451" alt="front3" src="https://github.com/user-attachments/assets/b8ab1ae0-c8f3-46bb-80ff-c5ef7d0d297e" />
 
     
 

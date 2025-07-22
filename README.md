@@ -17,7 +17,7 @@ This is the frontend interface of the Automated Document Verification system, bu
 
       -Lists the uploaded date and time
 
--**Download & Delete**:
+- **Download & Delete**:
 
       -Download the original uploaded document
 

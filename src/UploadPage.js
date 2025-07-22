@@ -53,7 +53,6 @@ function UploadPage() {
       <select value={docType} onChange={(e) => setDocType(e.target.value)}>
         <option value="">-- Select --</option>
         <option value="aadhaar">Aadhaar</option>
-        <option value="pan">PAN</option>
         <option value="passport">Passport</option>
       </select><br /><br />
 

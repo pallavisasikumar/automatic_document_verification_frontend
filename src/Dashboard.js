@@ -25,7 +25,7 @@ function Dashboard() {
     axios.delete(`http://127.0.0.1:8000/api/documents/${id}/delete/`)
       .then(() => {
         alert("🗑️ Document deleted.");
-        fetchDocuments(); // refresh list
+        fetchDocuments(); 
       })
       .catch(() => alert("⚠️ Failed to delete document."));
   };
